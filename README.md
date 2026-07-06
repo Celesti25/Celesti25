@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Claudia Lam (prefer being called Clesa) :) 
+- 👋 Hi, I’m Claudia Lam (prefer being called Ilya) :) 
 - 👀 I’m interested in developing and enhancing my coding abilities through trial and error 
 - 🌱 I’m currently learning HTML, Python, R
 - 💞️ I’m looking to collaborate on interesting projects :) 
